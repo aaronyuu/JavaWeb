@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book id="1" pagecount="126">
+		<name>冰与火之歌</name>
+		<author>乔治马丁</author>
+		<year>2014</year>
+		<price>89.888</price>
+	</book>
+	<book id="2" pagecount="368">
+		<name>杜拉拉升职记</name>
+		<year>2008</year>
+		<price>66</price>
+		<language>English</language>
+	</book>
+</bookstore>
